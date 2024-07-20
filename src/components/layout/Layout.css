@@ -1,0 +1,58 @@
+.layout-header{
+    padding: 40px 0;
+}
+
+.layout-header img{
+    width: 40px;
+}
+
+.logo-title{
+    font-size: 36px;
+    color: #00A88E;
+    margin-left: 20px;
+}
+
+.logo-title span{
+    font-weight: 900;
+}
+
+.logo-subtitle{
+    font-size: 16px;
+    color: #00A88E;
+    margin-left: 10px;
+}
+
+.layout-devisor{
+    width: 1px;
+    height: 50px;
+    background-color: #00A88E;
+    margin-left: 20px;
+}
+
+.layout-nav a{
+    color: #00A88E;
+    font-size: 20px;
+    margin: 0 40px;
+}
+
+.layout-buttons button{
+    outline: none;
+    padding: 15px 30px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.white{
+    border: 2px solid #00A88E;
+    color: #00A88E;
+    margin-right: 25px;
+    background: none;
+}
+
+.green{
+    border: none;
+    color: #ffffff;
+    margin-right: 50px;
+    background: #00A88E;
+}

@@ -1,0 +1,168 @@
+.main-subtitle{
+    font-weight: 300;
+    color: #00A88E;
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.main-title{
+    font-size: 48px;
+    font-weight: 700;
+    margin: 20px 0;
+}
+
+.main-text{
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.main-button{
+    font-size: 24px;
+    background: #00A88E;
+    color: #ffffff;
+    padding: 20px 80px;
+    border: none;
+}
+
+.main-left{
+    margin-left: 15%;
+}
+
+.main-camera{
+    height: 600px;
+}
+
+.main-triangle{
+    height: 200px;
+    margin: 0 40px 0 200px;
+}
+
+.main-right p{
+    font-weight: 300;
+    font-size: 36px;
+}
+
+.protect-block{
+    background-image: url('./main-bg.png');
+    background-size: contain-x;
+    background-repeat: no-repeat;
+    min-height: 40vh;
+    padding-top: 400px;
+    padding-bottom: 100px;
+    margin-top: 100px;
+}
+
+.protect-title{
+    color: #00A88E;
+    font-weight: 600;
+    font-size: 128px;
+}
+
+.protect-subtitle{
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: 40px;
+}
+
+.protect-device{
+    width: 800px;
+}
+
+.be-block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.be-right{
+    width: 500px;
+}
+
+.be-title{
+    font-size: 64px;
+    font-weight: 300;
+    color: #00A88E;
+}
+
+.be-subtitle{
+    font-size: 20px;
+    color: #0000007d;
+    margin-top: 20px;
+}
+
+.stage-block{
+    margin: 0 20%;
+}
+
+.stage-up{
+    margin: 0 16%;
+}
+
+.up-circle{
+    font-size: 24px;
+    color: #ffffff;
+    background-color: #00A88E;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.up-devisor{
+    border: 1px dashed #00A88E;
+    flex-grow: 1;
+}
+
+.desc-title{
+    font-size: 36px;
+    color: #00A88E;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.desc-subtitle{
+    font-size: 20px;
+    font-weight: 300;
+    color: #0000007d;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.receive-block{
+    margin: 100px 20%;
+}
+
+.receive-title{
+    font-size: 64px;
+    color: #00A88E;
+    text-align: center;
+    font-weight: 300;
+}
+
+.receive-desc{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.receive-desc div{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 24px;
+    color: #00A88E;
+}
+
+.receive-desc div img {
+    height: 100px;
+}
+
+.receive-desc div p{
+    margin-top: 20px;
+}
